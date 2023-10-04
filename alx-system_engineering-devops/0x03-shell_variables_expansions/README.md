@@ -1,2 +1,1 @@
-my first edited README
-alias project
+my first README
